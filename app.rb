@@ -7,7 +7,11 @@ class Birthday < Sinatra::Base
   end
 
   get '/' do
-    "Happy Birthday"
+    erb :index
+  end
+
+  post '/details' do
+    @name = params[:name]
   end
 
   run! if app_file == $0

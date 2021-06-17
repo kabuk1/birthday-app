@@ -12,14 +12,30 @@
           null,
           null,
           1,
-          0,
+          1,
+          null,
+          null,
+          1,
+          1,
           null,
           null,
           1,
           null
         ]
+      },
+      "/Users/leslie/makersacademy/birthday-app/spec/features/birthday_form_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1623929170
+    "timestamp": 1623934588
   }
 }
